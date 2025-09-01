@@ -1,4 +1,4 @@
-import Product from "./Product";
+import Product from "./Product.jsx";
 
 export default function App() {
   return (
@@ -7,3 +7,4 @@ export default function App() {
     </>
   );
 }
+
