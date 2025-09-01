@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Productsinfo from "./Productsinfo";
+import Productsinfo from "./Productsinfo.jsx";
 
 export default function Product() {
   const [products, setProducts] = useState([
@@ -70,3 +70,4 @@ export default function Product() {
     </div>
   );
 }
+
